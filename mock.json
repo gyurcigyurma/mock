@@ -1,26 +1,7 @@
 [
             {
               "system": "https://www.uk-koeln.de/fhir/CodeSystems/MeldeBegruendung",
-              "concept": [
-                {
-                  "code": "GBA"
-                },
-                {
-                  "code": "AGBS"
-                },
-                {
-                  "code": "RRD"
-                },
-                {
-                  "code": "DFG"
-                },
-                {
-                  "code": "SKDKF"
-                },
-                {
-                  "code": "AXDA"
-                }
-              ]
+              "concept": [ "A","b","v"]
             },
             {
               "system": "https://mockit/fhir/CodeSystems/Lorem",
