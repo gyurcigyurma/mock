@@ -1,7 +1,26 @@
 [
             {
               "system": "https://www.uk-koeln.de/fhir/CodeSystems/MeldeBegruendung",
-              "concept": [ "A","b","v"]
+              "concept": [
+                {
+                  "code": "111"
+                },
+                {
+                  "code": "2222"
+                },
+                {
+                  "code": "RR3333D"
+                },
+                {
+                  "code": "DF444G"
+                },
+                {
+                  "code": "5555"
+                },
+                {
+                  "code": "66666"
+                }
+              ]
             },
             {
               "system": "https://mockit/fhir/CodeSystems/Lorem",
