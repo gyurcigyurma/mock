@@ -2,7 +2,24 @@
             {
               "system": "https://www.uk-koeln.de/fhir/CodeSystems/MeldeBegruendung",
               "concept": [
-                   "A","B", "C"
+                {
+                  "code": "AXS"
+                },
+                {
+                  "code": "ASDD"
+                },
+                {
+                  "code": "ASDD"
+                },
+                {
+                  "code": "ADDLLF"
+                },
+                {
+                  "code": "ASDSDD"
+                },
+                {
+                  "code": "SSSSSSS"
+                }
               ]
             },
             {
